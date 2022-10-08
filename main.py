@@ -1,4 +1,3 @@
-from itertools import count
 from pynput import keyboard
 from enum import Enum
 import pyautogui as pag
